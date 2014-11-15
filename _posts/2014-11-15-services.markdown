@@ -1,0 +1,11 @@
+---
+layout: default
+anchor: services
+img: electric-service_man.png
+title: Услуги
+description: |
+  <p class="lead">прокладка проводки в квартире и доме<br>
+  наладка станков<br>
+  починка бытовой техники: чайники, пылесосы, утюги</p>
+
+---

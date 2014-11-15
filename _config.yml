@@ -1,0 +1,13 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://svetmne.ru
+title: СветМне.RU
+email: sergei.gorban@yandex.ru
+description: > # "Write an awesome description for your new site here. 
+  Персональный сайт электрика. Электромонтажные работы любой сложности.
+
+# Build settings
+markdown: kramdown
+permalink: pretty
